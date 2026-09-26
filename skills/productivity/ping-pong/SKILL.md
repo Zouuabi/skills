@@ -1,6 +1,6 @@
 ---
 name: ping-pong
-description: Switch to a quick back-and-forth: short, direct turns until I say stop.
+description: "Switch to a quick back-and-forth: short, direct turns until I say stop."
 disable-model-invocation: true
 ---
 
