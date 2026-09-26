@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ping Pong"
+  short_description: "Short, direct turns for a quick back-and-forth"
+policy:
+  allow_implicit_invocation: false
